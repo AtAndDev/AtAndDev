@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👀 I’m an 12 year old Turkish Python developer
+- 👀 I’m an 20 year old Turkish Python developer
 - 🔭 I’m currently working on Photolens: [Discord Server](https://discord.gg/6Gwh49GW)
 - 🌱 I’m currently learning Javascript
 - 👯 I’m currently a contributer in Turing AI: [Discord Server](https://discord.gg/turing)
